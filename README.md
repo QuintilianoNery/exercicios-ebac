@@ -3,11 +3,16 @@ Este repositório servirá para organizar os arquivos e exercícios a serem envi
 Vou organizar em releases para cada atividade, exceto os que envolverem programação, nesse caso criarei uma um repositório específico para cada projeto de testes.
 
 -----
+### Concluído
+
 [Exercícios Módulo 1](https://github.com/QuintilianoNery/exercicios-ebac/tree/Exerc%C3%ADcios-M01)
 
 [Exercícios Módulo 2](https://github.com/QuintilianoNery/exercicios-ebac/tree/Exerc%C3%ADcios-M02)
 
 [Exercícios Módulo 3](https://github.com/QuintilianoNery/exercicios-ebac/tree/Exerc%C3%ADcio-M03)
+
+-----
+### Não Concluído
 
 [Exercícios Módulo 4]()
 
@@ -56,5 +61,6 @@ Vou organizar em releases para cada atividade, exceto os que envolverem programa
 -----
 
 [Anotações](https://github.com/QuintilianoNery/exercicios-ebac/tree/Anotacoes/Anotacoes_Aulas)
+
 -----
 [Materiais de apoio](https://github.com/QuintilianoNery/exercicios-ebac/tree/Material-de-apoio/Material_De_Apoio)
