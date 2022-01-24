@@ -11,6 +11,8 @@ Vou organizar em releases para cada atividade, exceto os que envolverem programa
 
 [Exercícios Módulo 3](https://github.com/QuintilianoNery/exercicios-ebac/tree/Exerc%C3%ADcio-M03/Exerc%C3%ADcio_M%C3%B3dulo_03)
 
+[Exercícios Módulo 11](https://github.com/QuintilianoNery/Exercicios_Ebac_Modulo_11)
+
 -----
 ### Não Concluído
 
@@ -27,8 +29,6 @@ Vou organizar em releases para cada atividade, exceto os que envolverem programa
 [Exercícios Módulo 9]()
 
 [Exercícios Módulo 10]()
-
-[Exercícios Módulo 11](https://github.com/QuintilianoNery/Exercicios_Ebac_Modulo_11)
 
 [Exercícios Módulo 12]()
 
