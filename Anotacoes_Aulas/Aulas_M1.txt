@@ -1,0 +1,62 @@
+Aula01
+Habilidades de um profissional de qualidade.
+- Habilidades comportamentais -  Soft Skills
+- Habilidades técnicas - Hards Skills
+
+Planeja, propõe melhorias, faz as estimativas de testes.
+- Realiza uma análise de risco para identificar quais testes devem ser criados
+- smoking testes - uma bateria de testes que cobre determinada implementação ou funcionalidade.
+- Participa das reuniões de desenvolvimento para evitar bugs. Adiantar os testes.
+
+Aula02
+Soft Skills- Habilidades comportamentais da pessoa dentro de uma empresa.
+
+Habilidades comportamentais tem relação com as emoções.
+
+Relação com o cargo exercido, é importante o quanto você se comunica, o quanto você é proativo em relação aos problemas.
+- Aprendizado rápido e saber buscar informações quando está com dúvidas, tanto aos colegas de trabalho, quanto em relação aos estudos e pesquisas.
+- Saber questionar sempre que tiver dúvidas
+- Ter resiliência em relação as mudanças 
+
+Aula03
+Hard Skills -  Habilidades tecnológicas que são facilmente quantificadas ou verificado a evolução.
+
+- Adquiridas geralmente estudando, lendo e buscando aprender novas ferramentas ou conceitos.
+
+Quais as habilidades técnicas de um QA:
+- Conhecimento em metodologias ágeis, seus princípios e boas práticas
+- Conhecimento em DevOps no processo de desenvolvimento.
+- Buscar novas tecnologias, aberto a conhecer outras ferramentas e tecnologias.
+- Entender como o produto vai agregar valor ao cliente. Entender o objetivo do produto.
+- Estudar e conhecer padrões e boas práticas de desenvolvimento.
+- Ter a facilidade na identificação de problemas, tentar olhar os problemas que estão por trás do "Aparente" enxergar além.
+- Ter ao menos um bom conhecimento em uma linguagem de programação, com isso as outras será mais fácil de entender e conhecer alguns frameworks da área de programação.
+- Entender a automação de testes.
+- Saber empregar estratégias de testes
+- Sempre estar por dentro de novas tecnologias do mercado.
+
+Aula04
+- Saber fazer uma auto avaliação para identificar onde estou e onde quero chegar.
+Frase inspiradora.: Uma pessoa sem OBJETIVO é como alguém solto no deserto, para onde vá, não levará a LUGAR ALGUM!
+
+- Para chegar em um objetivo, faça um plano, descreva ele.
+
+Tipos de competências: 
+- Competência conceitual, é o conhecimento e domínio de falar sobre as metodologias e técnicas que devem ser empregadas na execução técnica.
+- Competência técnicas: É conhecer as boas práticas e funcionalidades para empregar bem o desempenho no trabalho.
+- Competências interpessoais: São as habilidades de comunicação com as pessoas.
+
+Auto Avaliação: 
+
+Aula05
+O que é o PDI - Plano de desenvolvimento individual, para o desenvolvimento da carreira. Um plano de ação para a carreira.
+
+- O que vai ser feito 
+- Por quê vai ser feito
+- Onde vou vai ser feita a tarefa ou ação, quais ferramentas
+- Quando vai ser feita a tarefa, início e fim do planejamento do estudo ou da tarefa.
+- Quem é o responsável do plano de ação. Eu, mas pode ser empregado em uma empresa também.
+- Como vou fazer, quais os processos  e cada ação deve ser executada
+- Quanto Custa para fazer essa ação, custos.
+
+Ver página 23/29 e copiar 
