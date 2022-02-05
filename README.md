@@ -63,4 +63,4 @@ Vou organizar em releases para cada atividade, exceto os que envolverem programa
 [Anotações](https://github.com/QuintilianoNery/exercicios-ebac/tree/Anotacoes/Anotacoes_Aulas)
 
 -----
-[Materiais de apoio](https://github.com/QuintilianoNery/exercicios-ebac/tree/Material-de-apoio/Material_De_Apoio)
+[Materiais de apoio](https://github.com/QuintilianoNery/exercicios-ebac/tree/master/Material_De_Apoio)
