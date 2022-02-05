@@ -1,0 +1,73 @@
+Aula01
+- Como a qualidade é percebida e como podemos ter métricas com a qualidade.
+
+"A qualidade representa as CARACTERÍSTICAS E PROPRIEDADES de uma realidade que é observável"
+- Qualidade é algo que eu percebo assim como, um bug eu percebo, logo aquela propriedade pode ser ruim.
+- Definições de qualidade ISO, ISTQB, ISO/IEC9126
+- Afirmação de Roger S. Pressman a respeito de qualidade de software.
+- Qualidade de Software é Subjetiva, ligando percepções trazendo expectativas e alguns fatores podem influenciar na implementação, como a cultura da empresa por exemplo. 
+- Como perceber a qualidade de um produto? 
+- Verificar a forma com que o cliente enxerga o seu produto.
+- Verificar a satisfação do cliente.
+
+
+Aula02
+Área de Garantia de Qualidade - É a parte da gestão da qualidade de que permite prover a confiança que os requisitos da qualidade serão atendidos.
+
+Está relacionada com os processos de desenvolvimento e tem como objetivo garantir e verificar se todos os procedimentos estão de acordo com o sistema de gestão de qualidade.
+    * Controle de qualidade geralmente visa a verificação da qualidade no final do processo quando o produto está pronto.
+    * Garantia de qualidade por sua vez, tem o foco que os requisitos de entrada serão atendidos.
+
+QA - Está entre A Garantia de qualidade e o Controle de qualidade, com com foco no cumprimento dos requisitos de qualidade em todos os processos de desenvolvimento.
+Garantia de qualidade é envolvida antes da entrega, durante o processo de desenvolvimento. De forma preventiva e aperfeiçoamento
+Controle de qualidade inspeciona o produto pronto. Verificação.
+
+Responsabilidades de Garantia de qualidade
+    Responsabilidade Da garantia de qualidade como um todo:
+    Controle de documentos
+    Controle de mudanças
+    Material de não conformidade
+    Controle de design
+    lançamento de Software ou Versão
+    Avaliação e monitoramento de fornecedores
+    Ação corretiva de fornecedores
+    Auditoria internas de qualidade
+    Plano de amostragem de inspeção
+    Ação preventiva e corretiva
+
+Responsabilidades QA na área de Software.
+    Revisão, transição e operação
+
+Aula03
+Benefícios de se investir em qualidade:
+- Encontrar bug no processo de desenvolvimento e não em produção;
+- Alto custo de um bug em produção!
+- Evita custos com pessoas, processos retrabalho.
+- Rentabilidade, confiabilidade, Padrões, performance, estratégia.
+
+FOCO NOS CLIENTES!!!
+
+Aula04
+Organizar e formalizar um processo, um padrão de testes.
+Tipos de padronização:
+*Qualitativos
+- Utilização adequada de recursos, tanto de sistemas quanto de pessoas.
+- Disciplina da produção e uniformidade do trabalho, com formação da equipe.
+- Controle de processos e melhores estimativas
+ 
+* Quantitativos
+- Aumento de produtividade
+- Redução de consumo e do desperdício de tempo
+Padronização de componentes e equipamentos
+
+*Objetivo dos padrões
+- Segurança e confiabilidade dos produtos e serviços
+- Evitar a variação nos processos
+- Melhorar resultados
+- Aumentar produtividade.
+
+*Padrões internacionais
+- IEEE
+- ISO
+*Padrão Nacional
+- ABNT
