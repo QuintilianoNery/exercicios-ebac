@@ -4,19 +4,13 @@ Vou organizar em releases para cada atividade, exceto os que envolverem programa
 
 -----
 ### Concluído
-
 [Exercícios Módulo 1](https://github.com/QuintilianoNery/exercicios-ebac/tree/master/Exerc%C3%ADcio_M%C3%B3dulo_01)
-
 [Exercícios Módulo 2](https://github.com/QuintilianoNery/exercicios-ebac/tree/master/Exerc%C3%ADcio_M%C3%B3dulo_02)
-
 [Exercícios Módulo 3](https://github.com/QuintilianoNery/exercicios-ebac/tree/master/Exerc%C3%ADcio_M%C3%B3dulo_03/exerc%203)
-
-[Exercícios Módulo 11](https://github.com/QuintilianoNery/exercicios-ebac/tree/master/Exerc%C3%ADcio_M%C3%B3dulo_04)
-
+[Exercícios Módulo 4](https://github.com/QuintilianoNery/exercicios-ebac/tree/master/Exerc%C3%ADcio_M%C3%B3dulo_04)
+[Exercícios Módulo 11](https://github.com/QuintilianoNery/Exercicios_Ebac_Modulo_11)
 -----
 ### Não Concluído
-
-[Exercícios Módulo 4]()
 
 [Exercícios Módulo 5]()
 
