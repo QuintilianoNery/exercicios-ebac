@@ -30,7 +30,6 @@ Vou organizar em releases para cada atividade, exceto os que envolverem programa
 
 [Exercícios Módulo 9]()
 
-
 [Exercícios Módulo 12]()
 
 [Exercícios Módulo 13]()
@@ -58,6 +57,19 @@ Vou organizar em releases para cada atividade, exceto os que envolverem programa
 [Exercícios Módulo 24]()
 
 [Exercícios Módulo 25]()
+
+[Exercícios Módulo 26]()
+
+[Exercícios Módulo 27]()
+
+[Exercícios Módulo 28]()
+
+[Exercícios Módulo 29]()
+
+[Exercícios Módulo 30]()
+
+
+
 
 -----
 
