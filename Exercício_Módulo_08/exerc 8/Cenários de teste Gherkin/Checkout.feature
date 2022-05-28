@@ -11,9 +11,9 @@ Funcionalidade: [US-0003] – Tela de cadastro - Checkout
 
 
     Esquema do Cenário: Preenchimento dos dados pessoais para faturamento
-        Quando o usuário preencher os dados pessoais como <nome> e <sobrenome>
-            E preencher os campos de endereço como <pais>, <endereco>, <cidade> e <CEP>
-            E preencher os campos para contato como <telefone> e <email>
+        Quando o usuário preencher os dados pessoais com <nome> e <sobrenome>
+            E preencher os campos de endereço com <pais>, <endereco>, <cidade> e <CEP>
+            E preencher os campos para contato com <telefone> e <email>
         Então ao clicar no botão Finalizar Compra o sistema deve exibir a mensagem <mensagem>
         Exemplos:
             | nome | sobrenome | pais   | endereco | cidade    | CEP       | telefone         | email            | mensagem                                           |
