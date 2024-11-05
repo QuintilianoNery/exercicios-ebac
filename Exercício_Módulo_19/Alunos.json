@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Lucas Almeida",
+        "nota": 7.8,
+        "curso": "Engenharia de Software"
+    },
+    {
+        "name": "Mariana Silva",
+        "nota": 9.2,
+        "curso": "Ciência da Computação"
+    },
+    {
+        "name": "João Pereira",
+        "nota": 6.5,
+        "curso": "Sistemas de Informação"
+    },
+    {
+        "name": "Ana Costa",
+        "nota": 8.3,
+        "curso": "Segurança da Informação"
+    },
+    {
+        "name": "Felipe Santos",
+        "nota": 5.9,
+        "curso": "Redes de Computadores"
+    },
+    {
+        "name": "Carolina Martins",
+        "nota": 7.4,
+        "curso": "Análise e Desenvolvimento de Sistemas"
+    },
+    {
+        "name": "Gabriel Rocha",
+        "cargo": "Professor",
+        "curso": "Banco de Dados"
+    }
+]

@@ -1,0 +1,46 @@
+
+[{
+    "name": "Laura Nogueira",
+    "cargo": "Professor",
+    "curso": [
+        "QA",
+        "FrontEnd",
+        "MongoDB"
+    ]
+},
+{
+    "name": "Carlos Henrique",
+    "cargo": "Professor",
+    "curso": [
+        "Engenharia de Software",
+        "Sistemas de Informação",
+        "Redes de Computadores"
+    ]
+},
+{
+    "name": "Patrícia Oliveira",
+    "cargo": "Professora",
+    "curso": [
+        "Ciência da Computação",
+        "Banco de Dados",
+        "Inteligência Artificial"
+    ]
+},
+{
+    "name": "Fernando Souza",
+    "cargo": "Professor",
+    "curso": [
+        "Segurança da Informação",
+        "Análise e Desenvolvimento de Sistemas",
+        "FrontEnd"
+    ]
+},
+{
+    "name": "Juliana Ribeiro",
+    "cargo": "Professora",
+    "curso": [
+        "QA",
+        "Engenharia de Software",
+        "MongoDB"
+    ]
+}]

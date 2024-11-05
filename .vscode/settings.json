@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:exercicios-ebac}/Exercício_Módulo_19/Exercícios/EBAC.db",
+            "name": "EBAC"
+        }
+    ]
+}
